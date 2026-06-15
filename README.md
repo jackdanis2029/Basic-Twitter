@@ -1,2 +1,2 @@
 # Basic-Twitter
-Here I made a basic twitter cone in python
+Here I made a basic twitter clone in python
